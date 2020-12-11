@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9n2V6S03nZihpcQd4hSmLIg6RA4UoSN5+oq+GzfIPGOM7R0pIzvfwGmU1HAaPhPw3rtUs94s8pCjDEVETEGITA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\IndiaStateCensusAnalyser\\IndiaStateCensusAnalyser\\IndiaStateCensusAnalyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\nlog\\4.7.6\\nlog.4.7.6.nupkg.sha512"
+  ],
+  "logs": []
+}
